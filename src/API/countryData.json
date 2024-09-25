@@ -1,0 +1,73 @@
+[
+    {
+      "id": 1,
+      "country_name": "China",
+      "population": 1409517397,
+      "capital": "Beijing",
+      "interesting_fact": "China is the world's most populous country."
+    },
+    {
+      "id": 2,
+      "country_name": "India",
+      "population": 1339180127,
+      "capital": "New Delhi",
+      "interesting_fact": "India has the second-largest population globally."
+    },
+    {
+      "id": 3,
+      "country_name": "United States",
+      "population": 324459463,
+      "capital": "Washington, D.C.",
+      "interesting_fact": "The U.S. has the third-largest population in the world."
+    },
+    {
+      "id": 4,
+      "country_name": "Indonesia",
+      "population": 263991379,
+      "capital": "Jakarta",
+      "interesting_fact": "Indonesia is the world's largest island country."
+    },
+    {
+      "id": 5,
+      "country_name": "Brazil",
+      "population": 209288278,
+      "capital": "Brasília",
+      "interesting_fact": "Brazil is the largest country in South America."
+    },
+    {
+      "id": 6,
+      "country_name": "Pakistan",
+      "population": 197015955,
+      "capital": "Islamabad",
+      "interesting_fact": "Pakistan is the world's sixth most populous country."
+    },
+    {
+      "id": 7,
+      "country_name": "Nigeria",
+      "population": 190886311,
+      "capital": "Abuja",
+      "interesting_fact": "Nigeria is the most populous country in Africa."
+    },
+    {
+      "id": 8,
+      "country_name": "Bangladesh",
+      "population": 164669751,
+      "capital": "Dhaka",
+      "interesting_fact": "Bangladesh has one of the highest population densities globally."
+    },
+    {
+      "id": 9,
+      "country_name": "Russia",
+      "population": 143989754,
+      "capital": "Moscow",
+      "interesting_fact": "Russia is the largest country in the world by land area."
+    },
+    {
+      "id": 10,
+      "country_name": "Japan",
+      "population": 127484450,
+      "capital": "Tokyo",
+      "interesting_fact": "Japan has the world's third-largest economy by GDP."
+    }
+  ]
+  
